@@ -1,6 +1,7 @@
 /**Método main
  * Punto de acceso, contruyo un auto de prueba y un conductor para observar el comportamiento
  * del programa y evaluar los resultados obtenidos
+ * La evaluacion se presenta mediante una estructura de seleccion doble
  * */
 
 public class Vialidad {
