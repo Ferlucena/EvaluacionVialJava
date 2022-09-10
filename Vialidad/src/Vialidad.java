@@ -1,4 +1,4 @@
-/**Metodo main
+/**Método main
  * Punto de acceso, contruyo un auto de prueba y un conductor para observar el comportamiento
  * del programa y evaluar los resultados obtenidos
  * */
